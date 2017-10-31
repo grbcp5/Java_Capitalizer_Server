@@ -1,4 +1,4 @@
-package grbcp5.hw01;
+package edu.mst.grbcp5;
 
 public class Main {
 
